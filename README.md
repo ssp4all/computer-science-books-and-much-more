@@ -1,6 +1,6 @@
 # enginnering books [![HitCount](http://hits.dwyl.io/ssp4all/Pong-Game.svg)](http://hits.dwyl.io/ssp4all/enginnering-books)
 
-Sem3
+## Sem 3
 * Data Structure [Data Structures
 Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
@@ -8,12 +8,12 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
 * Database Management []()
 
-* Object Oriented Progrmming Methodology (JAVA) []() 
+* Object Oriented Progrmming Methodology (JAVA) [Java: The Complete Reference](Information-technology/sem3/java.pdf) 
 
 
 
 
-Sem 7
+## Sem 7
 * SPM (Structuted Programming Approach) 
 [INFORMATION TECHNOLOGY PROJECT MANAGEMENT by Jack Marchewka](Information-technology/sem7/spm.pdf)
 
