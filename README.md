@@ -30,7 +30,8 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
 ## Sem 7
 * SPM (Structuted Programming Approach) 
-[INFORMATION TECHNOLOGY PROJECT MANAGEMENT by Jack Marchewka](Information-technology/sem7/spm.pdf)
+    + [INFORMATION TECHNOLOGY PROJECT MANAGEMENT by Jack Marchewka](Information-technology/sem7/spm.pdf)
+    + [PPT](https://drive.google.com/drive/folders/1gRoiTIupdivlr3zulkRGdUCmn6Xcq0Yh?usp=sharing) 
 
 * CC (Cloud Computing) 
 [Black Book](Information-technology/sem7/cc.pdf)
