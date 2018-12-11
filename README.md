@@ -11,6 +11,12 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 * Object Oriented Progrmming Methodology (JAVA) [Java: The Complete Reference](Information-technology/sem3/java.pdf) 
 
 
+## Sem 6
+* AIT(Advanced Internet Technology)
+    + [The Art of SEO Mastering by Eric Enge](Information-technology/sem6/seo.pdf)
+    
+* DS [Distributed Operating System by PK Sinha]((Information-technology/sem7/dos.pdf)
+)
 
 
 ## Sem 7
