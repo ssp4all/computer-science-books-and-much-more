@@ -6,7 +6,7 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
 * Algorithm Analysis [Introduction To Algorithms by Thomas Cormen](Information-technology/sem7/algorithms.pdf) 
 
-* Database Management []()
+* Database Management [Fundamentals of Database Systems](Information-technology/sem3/dbms.pdf)
 
 * Object Oriented Progrmming Methodology (JAVA) [Java: The Complete Reference](Information-technology/sem3/java.pdf) 
 
