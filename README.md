@@ -24,17 +24,16 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 * AIT(Advanced Internet Technology)
     + [The Art of SEO Mastering by Eric Enge](Information-technology/sem6/seo.pdf)
 
-* DS [Distributed Operating System by PK Sinha]((Information-technology/sem7/dos.pdf)
-)
+* DS [Distributed Operating System by PK Sinha](Information-technology/sem6/dos.pdf)
 
-* DMBI [Data Mining Concepts and Techniques](Information-technology/sem7/dm.pdf)
+* DMBI [Data Mining Concepts and Techniques](Information-technology/sem6/dm.pdf)
 
 
 * System and Web Security
-    + [Cryptography & Web Security by W. Stalling](Information-technology/sem7/cns.pdf)
+    + [Cryptography & Web Security by W. Stalling](Information-technology/sem6/cns.pdf)
 
 * SE
-    + [Software Engineering by Pressman](Information-technology/sem7/se.pdf)
+    + [Software Engineering by Pressman](Information-technology/sem6/se.pdf)
 
 
 ## Sem 7
