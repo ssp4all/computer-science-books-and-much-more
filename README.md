@@ -1,14 +1,15 @@
-# enginnering books [![HitCount](http://hits.dwyl.io/ssp4all/Pong-Game.svg)](http://hits.dwyl.io/ssp4all/enginnering-books)
+# Engineering Books [![HitCount](http://hits.dwyl.io/ssp4all/Pong-Game.svg)](http://hits.dwyl.io/ssp4all/enginnering-books)
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 
-### This repository contains all material you will required to study Computer or IT Engineering.
+This repository contains all material you will required to study Computer and IT Engineering.
 
-## List of Content
+## List of content
 + [Sem 3](#Sem-3)
 + [Sem 6](#Sem-6)
-+ [Sem 7](#Sem-7) 
++ [Sem 7](#Sem-7)
 
 ## Sem 3
+
 * Data Structure [Data Structures
 Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
@@ -37,7 +38,7 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 
 
 ## Sem 7
-* SPM (Structuted Programming Approach) 
+* SPM (Structured Programming Approach) 
     + [INFORMATION TECHNOLOGY PROJECT MANAGEMENT by Jack Marchewka](Information-technology/sem7/spm.pdf)
     + [PPT](https://drive.google.com/drive/folders/1gRoiTIupdivlr3zulkRGdUCmn6Xcq0Yh?usp=sharing) 
 
@@ -45,7 +46,7 @@ Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
 [Black Book](Information-technology/sem7/cc.pdf)
 
 * WT (Wireless Technology) 
-    + [Wireless Technology by MR. Nilesh M. Patil](Information-technology/sem7/wt.pdf)
+    + [Wireless Technology by Mr. Nilesh M. Patil](Information-technology/sem7/wt.pdf)
     + [WIRELESS COMMUNICATIONS
 AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 
