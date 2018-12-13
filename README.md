@@ -54,7 +54,8 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 [Artificial Intelligence by Russel and Norvig](Information-technology/sem7/ai.pdf)
 
 * UE (Usability Engineering) 
-[Usability Engineering by Jackob Nielsen](Information-technology/sem7/ue.pdf)
+    + [Usability Engineering by Jackob Nielsen](Information-technology/sem7/ue.pdf)
+    + [PPT](https://drive.google.com/drive/folders/1g7HIYhj8-ugh4kYSGEHTWqp76CpfWL6r?usp=sharing) 
 
 
 [(Back to top)](#list-of-content)
