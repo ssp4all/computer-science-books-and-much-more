@@ -8,6 +8,8 @@ This repository contains all material you will required to study Computer and IT
 + [Sem 6](#Sem-6)
 + [Sem 7](#Sem-7)
 
++ [Extra](#extra)
+  
 ## Sem 3
 
 * Data Structure [Data Structures
@@ -57,5 +59,7 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
     + [Usability Engineering by Jackob Nielsen](Information-technology/sem7/ue.pdf)
     + [PPT](https://drive.google.com/drive/folders/1g7HIYhj8-ugh4kYSGEHTWqp76CpfWL6r?usp=sharing) 
 
+## Extra
+[What is an AI?](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 [(Back to top)](#list-of-content)
