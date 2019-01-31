@@ -71,6 +71,8 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 - [Practice & Paper Solutions](https://books.google.co.in/books?id=bVEvDwAAQBAJ&pg=RA2-PA56&lpg=RA2-PA56&dq=Let+A+%E2%89%A4m+B+denotes+that+language+A+is+mapping+reducible+(also+known+as+many-to-one+reducible)+to+language+B.&source=bl&ots=HquY75JcSZ&sig=ACfU3U2o8EP_iM8LKd25OUAEX1xIFwvpRw&hl=en&sa=X&ved=2ahUKEwjk4tetsZfgAhWMto8KHZr3C84Q6AEwBHoECAEQAQ#v=onepage&q&f=true)
 - [Google Drive](https://drive.google.com/drive/folders/0B8PPRjgqVcmFZmVYbzJjOElYMVE?usp=sharing)
 
+[Computer Engineering Material](https://drive.google.com/drive/folders/0Bxf76h5pSqTZUGRxc0w4VHU5QXc?usp=sharing) 
+*(Only for VESIT Students)*
 
 [(Back to top)](#list-of-content)
 
