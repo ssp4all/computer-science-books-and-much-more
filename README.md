@@ -60,7 +60,7 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
     + [PPT](https://drive.google.com/drive/folders/1g7HIYhj8-ugh4kYSGEHTWqp76CpfWL6r?usp=sharing) 
 
 ## **Extra**
-[What is an AI?](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+[What is an AI?](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  *(must read article)*
 
 **GRE Resources**
 
