@@ -64,6 +64,12 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
     + [Usability Engineering by Jackob Nielsen](Information-technology/sem7/ue.pdf)
     + [PPT](https://drive.google.com/drive/folders/1g7HIYhj8-ugh4kYSGEHTWqp76CpfWL6r?usp=sharing) 
 
+## **Sem 8**
++ Big Data Analytics  [Drive]()
++ Storage Networks
++ Introduction to Artificial Neural Systems
++ Discrete-Event System Simulation
+
 ## **Extra**
 [What is an AI?](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  *(must read article)*
 
