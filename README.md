@@ -9,6 +9,7 @@ This repository contains all material you will required to study Computer and IT
 + [Sem 5](#Sem-5)
 + [Sem 6](#Sem-6)
 + [Sem 7](#Sem-7)
++ [Interview](#Interview)
 + [Extra](#extra)
   
 ## **Sem 3**
@@ -70,8 +71,8 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 + Introduction to Artificial Neural Systems
 + Discrete-Event System Simulation
 
-## **Extra**
-[What is an AI?](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  *(must read article)*
+## **Interview**
++ [Python Quick Q/A](https://media.licdn.com/dms/document/C511FAQENjHagKYLQng/feedshare-document-pdf-analyzed/0?e=1556762400&v=beta&t=d3CZyCNhCsMtqpHk4c-AHRqMuaJpD7GR0r2nG67w_LI)
 
 **GRE Resources**
 
