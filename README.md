@@ -66,10 +66,19 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
     + [PPT](https://drive.google.com/drive/folders/1g7HIYhj8-ugh4kYSGEHTWqp76CpfWL6r?usp=sharing) 
 
 ## **Sem 8**
-+ Big Data Analytics  [Drive]()
++ Big Data Analytics  
+    + [Wiley by M. Vijyalakshmi](https://drive.google.com/file/d/1wW7Wtoaa2ZtGZx6W-avQuQAsHpnl-HCk/view?usp=sharing)
+    + [BDA ppts](https://drive.google.com/drive/folders/1PnaCHEbvxc87akgpY06V2exhihfuUH8M?usp=sharing)
+  
+
 + Storage Networks
-+ Introduction to Artificial Neural Systems
-+ Discrete-Event System Simulation
+    + [All Books](https://drive.google.com/drive/folders/1_-b-UiXEGsMJCdJdyS_ag5H8xzPi52TY?usp=sharing) 
++ Introduction to Artificial Neural Systems/ Soft Computing
+    +  [Books](https://drive.google.com/drive/folders/19hwqDCxg4_NASofdJkWocUeoNIdjgz8R?usp=sharing)
++ Computer Simulation and modeling
+    + [Jerry Bank](https://drive.google.com/file/d/1deWTyth_gz1snUnyX5zNCbCqOHvGtr7k/view?usp=sharing)
+    + [Nilesh Patil (legend)](https://drive.google.com/file/d/1yb6qVvFxD-80Lewh2e5OKkaI9CfRLUFR/view?usp=sharing)
+    + [CSM ppts](https://drive.google.com/drive/folders/1qnR9CWHfzWj0-6IjBpVwv2VMe_fAOSeM?usp=sharing)
 
 ## **Interview**
 + [Python Quick Q/A](https://media.licdn.com/dms/document/C511FAQENjHagKYLQng/feedshare-document-pdf-analyzed/0?e=1556762400&v=beta&t=d3CZyCNhCsMtqpHk4c-AHRqMuaJpD7GR0r2nG67w_LI)
@@ -83,9 +92,6 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 - [Practice & Paper Solutions](https://books.google.co.in/books?id=bVEvDwAAQBAJ&pg=RA2-PA56&lpg=RA2-PA56&dq=Let+A+%E2%89%A4m+B+denotes+that+language+A+is+mapping+reducible+(also+known+as+many-to-one+reducible)+to+language+B.&source=bl&ots=HquY75JcSZ&sig=ACfU3U2o8EP_iM8LKd25OUAEX1xIFwvpRw&hl=en&sa=X&ved=2ahUKEwjk4tetsZfgAhWMto8KHZr3C84Q6AEwBHoECAEQAQ#v=onepage&q&f=true)
 - [Google Drive](https://drive.google.com/drive/folders/0B8PPRjgqVcmFZmVYbzJjOElYMVE?usp=sharing)
 
-**Computer Engineering Material**
-+ [Google Drive](https://drive.google.com/drive/folders/0Bxf76h5pSqTZUGRxc0w4VHU5QXc?usp=sharing) 
-*(Only for VESIT Students)*
 
 [(Back to top)](#list-of-content)
 
