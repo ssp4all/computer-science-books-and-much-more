@@ -9,6 +9,7 @@ This repository contains all material you will required to study Computer and IT
 + [Sem 5](#Sem-5)
 + [Sem 6](#Sem-6)
 + [Sem 7](#Sem-7)
++ [GRE](#GRE)
 + [Interview](#Interview)
 + [Extra](#extra)
   
@@ -83,9 +84,10 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 ## **Interview**
 + [Python Quick Q/A](https://media.licdn.com/dms/document/C511FAQENjHagKYLQng/feedshare-document-pdf-analyzed/0?e=1556762400&v=beta&t=d3CZyCNhCsMtqpHk4c-AHRqMuaJpD7GR0r2nG67w_LI)
 
-**GRE Resources**
+## **GRE Resources**
 
-- [Google Drive](https://drive.google.com/drive/folders/0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28)
+- [GRE (Google Drive)](https://drive.google.com/drive/folders/0B7oAXKq8S9ZXfnNUWGJVcEJ5dFNKODhPZV9aeHZ0N29PblBVQ0tJUTNkUUhzLUhnQmR5V28)
+- [IELTS (Google Drive)](https://drive.google.com/drive/folders/1FrV_HZ4KtjUHHo1-mciw3Cs9uyAI5YfT)
 
 **GATE**
 - [Made Easy Notes](https://www.eduinformer.com/gate-made-easy-engineering-mathematics-pdf-download/)
