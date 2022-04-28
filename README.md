@@ -5,11 +5,12 @@
 
 ### **List of content**
 + [Algorithms & Data Strutures](#algorithms-&-data-strutures)
-+ [Web Technologies](#Sem-4)
-+ [Cloud & Big Data](#Sem-5)
-+ [Machine Learning](#Sem-6)
-+ [Interview](#Sem-7)
-+ [GRE](#GRE)
++ [Web Technologies](#web-technologies)
++ [Cloud & Big Data](#cloud--big-data)
++ [Machine Learning](#machine-learning)
++ [Interview](#interview)
++ [GRE](#gre-resources)
++ [GATE](#gate)
 + [Extra](#extra)
   
 ### Algorithms & Data Strutures
