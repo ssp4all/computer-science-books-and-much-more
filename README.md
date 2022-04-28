@@ -1,7 +1,7 @@
 # **Computer Science Books** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssp4all%2Fcomputer-science-books-and-much-more&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 
-This repository contains all books you may want to study Computer Science/Information Technology.
+> This repository contains all books and resources you may want to study Computer Science.
 
 ### **List of content**
 + [Algorithms & Data Strutures](#algorithms-&-data-strutures)
@@ -77,6 +77,7 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 
 ### Interview
 + [Python Quick Q/A](https://media.licdn.com/dms/document/C511FAQENjHagKYLQng/feedshare-document-pdf-analyzed/0?e=1556762400&v=beta&t=d3CZyCNhCsMtqpHk4c-AHRqMuaJpD7GR0r2nG67w_LI)
++ Data structure coding practice on https://leetcode.com/
 
 ### GRE Resources
 
@@ -92,3 +93,5 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 [(Back to top)](#list-of-content)
 
 
+
+For any contribution, feel free to send a Pull Request. 
