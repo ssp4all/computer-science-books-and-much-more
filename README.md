@@ -4,16 +4,15 @@
 This repository contains all books you may want to study Computer Science/Information Technology.
 
 ### **List of content**
-+ [Sem 3](#algorithms-&-data-strutures)
-+ [Sem 4](#Sem-4)
-+ [Sem 5](#Sem-5)
-+ [Sem 6](#Sem-6)
-+ [Sem 7](#Sem-7)
++ [Algorithms & Data Strutures](#algorithms-&-data-strutures)
++ [Web Technologies](#Sem-4)
++ [Cloud & Big Data](#Sem-5)
++ [Machine Learning](#Sem-6)
++ [Interview](#Sem-7)
 + [GRE](#GRE)
-+ [Interview](#Interview)
 + [Extra](#extra)
   
-### **Algorithms & Data Strutures**
+### Algorithms & Data Strutures
 
 * Data Structure [Data Structures
 Using using C by Reema Thareja](Information-technology/sem3/ds.pdf)
