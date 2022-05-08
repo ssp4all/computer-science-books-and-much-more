@@ -1,7 +1,7 @@
 # **Computer Science Books** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssp4all%2Fcomputer-science-books-and-much-more&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 
-> This repository contains all books and resources you may want to study Computer Science.
+> This repository contains all the books and resources like system design which will help you become an adapt Software Engineer
 
 ### **List of content**
 + System Design (#system)
@@ -15,6 +15,7 @@
 + [Extra](#extra)
   
 ### System Design
+> Collection of all the important links spread across the internet on how to design a scalable high-level and low-level design
 [README](https://github.com/ssp4all/computer-science-books/system-design-readme.md)
 
 ### Algorithms & Data Strutures
