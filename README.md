@@ -72,7 +72,7 @@ AND NETWORKS by Stallings](Information-technology/sem7/wt-stalling.pdf)
 
 ### Machine Learning
 
-* Data Mining and Business Intelligence [Data Mining Concepts and Techniques](Information-technology/sem6/dm.pdf)
+* Data Mining and Business Intelligence [Data Mining Concepts and Techniques](https://github.com/ssp4all/computer-science-books-and-much-more/blob/master/computer-science-books/sem6/dm.pdf)
 
 + Introduction to Artificial Neural Systems/ Soft Computing
     +  [Books](https://drive.google.com/drive/folders/19hwqDCxg4_NASofdJkWocUeoNIdjgz8R?usp=sharing)
